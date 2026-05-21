@@ -1,0 +1,197 @@
+{
+  "version": "devtrack_v3",
+  "exportedAt": "2026-05-21T14:40:01.644Z",
+  "members": [
+    {
+      "id": 1,
+      "name": "Luis Roberto Chiasso Rachope",
+      "role": "Analista Desenvolvedor Pleno",
+      "contract": "Digital",
+      "admissao": "03/01/2022",
+      "email": "luis.rachope@deal.com.br",
+      "color": "#4f8ef7",
+      "comentarios": [],
+      "engagements": [],
+      "clientScores": [],
+      "area": "ENFORCE Digital",
+      "tenure": "4 anos e 4 mêses",
+      "focus": "Autonomia em entregas complexas, comunicação com cliente e code review",
+      "goals": []
+    },
+    {
+      "id": 2,
+      "name": "Caio Dunkl Cordeiro",
+      "role": "Analista Desenvolvedor Pleno",
+      "contract": "Digital",
+      "admissao": "16/03/2022",
+      "email": "caio.cordeiro@deal.com.br",
+      "color": "#a78bfa",
+      "comentarios": [
+        {
+          "id": 1005,
+          "origin": "1:1",
+          "type": "free",
+          "tone": "critical",
+          "date": "22 Abr",
+          "text": "Performance e Feedback — 1:1 com gestão:\n\nPerformance atual muito boa: executa tarefas sem dificuldade, questiona aspectos de negócio apropriadamente, tem autonomia, Alison confia completamente.\n\nÁreas de desenvolvimento técnico (feedback Alison): conhecimento arquitetural de microsserviços, visão mais ampla da comunicação entre sistemas, sair do código para pensar arquitetura.\n\nDesenvolvimento comportamental: pensar fora do código, questionar se soluções atendem o usuário, comunicar melhor com stakeholders, pensar estrategicamente, desenvolver liderança via mentoria.\n\nFrustração com a Deal: extremamente desmotivado. Reajuste salarial pendente desde janeiro, falta de reconhecimento, percepção de que empresa só quer lucro. Já viu sêniores ruins ganhando mais. Considerando oportunidades externas ativamente.\n\nObjetivo: seniorização até final do ano. Cético sobre chances na Deal. Estratégia acordada: focar desenvolvimento pessoal independente da empresa, usar frustração como motivação.",
+          "aiAnalysis": {
+            "summary": "1:1 crítico: Caio apresenta performance excelente mas está extremamente desmotivado com a Deal. Risco de saída alto e real — já busca oportunidades externas ativamente.",
+            "insights": "Há uma contradição perigosa: o cliente reconhece valor máximo (10/10 de confiança) enquanto a Deal não reconhece financeiramente. Isso acelera a decisão de saída. O gap de reajuste desde janeiro é o gatilho principal — não é só insatisfação difusa.",
+            "actions": "1. Escalar urgente com RH/diretoria o reajuste pendente desde janeiro — cada mês de atraso aumenta o risco\n2. Formalizar o plano de seniorização com prazo claro para dar perspectiva concreta\n3. Alinhar com Alison (ENFORCE) sobre valorização do Caio — feedback do cliente pode ajudar na argumentação interna"
+          }
+        },
+        {
+          "id": 1004,
+          "origin": "cliente",
+          "type": "free",
+          "tone": "positive",
+          "date": "04 Mai",
+          "text": "Nível de confiança: 10/10.\n• Qualidade das entregas sem problemas desde criação da EA Squad.\n• Pontos fortes: fácil de lidar, confiável para questões urgentes sem impactar entregas, questionamentos pertinentes sobre comportamento das telas.\n\nDesenvolvimento necessário:\n• Proatividade no apoio aos colegas.\n• Liderança como figura sênior de referência.\n• Atualmente espera colegas finalizarem antes de oferecer ajuda.",
+          "aiAnalysis": {
+            "summary": "Confiança máxima (10/10) consolidada. Gap restante é comportamental: proatividade no suporte lateral aos pares.",
+            "insights": "O cliente descreve o comportamento esperado de um Sênior. Último passo para promoção: sair do executor autônomo para referência colaborativa.",
+            "actions": "1. Compartilhar feedback com Caio no 1:1\n2. Propor desafio: apoiar Icaro em 1 tarefa por sprint proativamente\n3. Criar meta: \"Referência técnica e proativa\" com prazo de 60 dias"
+          }
+        },
+        {
+          "id": 1003,
+          "origin": "cliente",
+          "type": "free",
+          "tone": "positive",
+          "date": "20 Abr",
+          "text": "Performance consistentemente excelente.\n• Executa qualquer tipo de tarefa sem dificuldades técnicas.\n• Questiona apenas aspectos de negócio, nunca limitações técnicas.\n• Propõe melhorias arquiteturais baseadas em padrões universais.\n• Autonomia e confiabilidade elevadas.\n\nPlano de Seniorização:\n• Avaliação atual: 9/10 como Pleno, 7-8/10 como Sênior.\n• Comportamental: superior a muitos sêniores.\n• Técnico: falta conhecimento arquitetural em microsserviços e comunicação entre sistemas.\n• Estratégia: criar PDI específico focado nos gaps arquiteturais.",
+          "aiAnalysis": {
+            "summary": "Cliente formalizou avaliação de seniorização: 9/10 como Pleno, 7-8/10 como Sênior. Gap arquitetural identificado.",
+            "insights": "O cliente abre espaço para promoção. Gap é técnico e treinável com PDI.",
+            "actions": "1. Criar PDI com foco em microsserviços e padrões de comunicação\n2. Definir prazo para reavaliação de seniorização\n3. Envolver Caio em decisões arquiteturais como prática supervisionada"
+          }
+        },
+        {
+          "id": 1002,
+          "origin": "cliente",
+          "type": "free",
+          "tone": "positive",
+          "date": "06 Abr",
+          "text": "Tecnicamente e comportalmente muito bom, está entregando muito bem. Muito participativo em reunião, muito questionador, traz leveza e bom humor.",
+          "aiAnalysis": {
+            "summary": "Confirmação: excelência técnica e comportamental, presença positiva no ambiente.",
+            "insights": "Perfil \"questionador com leveza\" indica maturidade interpessoal acima do esperado para Pleno.",
+            "actions": "1. Reforçar autoconfiança no 1:1\n2. Incentivar papel de referência em reuniões\n3. Documentar como evidência para seniorização"
+          }
+        },
+        {
+          "id": 1001,
+          "origin": "cliente",
+          "type": "free",
+          "tone": "positive",
+          "date": "19 Mar",
+          "text": "Fácil de comunicação. Participativo, propositivo, objetivo.\n• Experiência muito boa.\n• Qualidade ótima de entrega.\n• Evolução bem notável.\n• Importante ajustar as horas.",
+          "aiAnalysis": {
+            "summary": "Avaliação muito positiva em comunicação, proatividade e qualidade. Único ponto: controle de horas.",
+            "insights": "Evolução notável reconhecida desde o início da alocação.",
+            "actions": "1. Reforçar reconhecimento no 1:1\n2. Alinhar rotina de registro de horas\n3. Registrar como marco positivo no PDI"
+          }
+        }
+      ],
+      "engagements": [
+        {
+          "month": "Mai 2026",
+          "project": 8,
+          "consultancy": 2,
+          "dissatisfaction": "Engajamento baixo com a consultoria — sinalizado no 1:1."
+        }
+      ],
+      "clientScores": [
+        {
+          "month": "Mai 2026",
+          "trust": 10,
+          "quality": 10,
+          "comment": ""
+        }
+      ],
+      "area": "ENFORCE Digital",
+      "tenure": "4 anos e 2 mêses",
+      "focus": "Autonomia em entregas complexas, comunicação com cliente e code review",
+      "goals": [
+        {
+          "id": 1779374361140,
+          "title": "Liderar os mais novos do time",
+          "due": "2026-12-12",
+          "cat": "Liderança",
+          "done": false
+        },
+        {
+          "id": 1779374398060,
+          "title": "Arquitetura dos sistemas",
+          "due": "2026-12-12",
+          "cat": "Técnica",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Icaro Andrade Campos",
+      "role": "Analista Desenvolvedor Junior",
+      "contract": "Digital",
+      "admissao": "22/02/2023",
+      "email": "icaro.campos@deal.com.br",
+      "color": "#34d399",
+      "comentarios": [],
+      "engagements": [],
+      "clientScores": [],
+      "area": "ENFORCE Digital",
+      "tenure": "3 anos e 3 mêses",
+      "focus": "Evolução técnica, proatividade e qualidade de entrega sob supervisão",
+      "goals": []
+    },
+    {
+      "id": 4,
+      "name": "Uian Sol Gorgonio",
+      "role": "Analista Desenvolvedor Senior",
+      "contract": "Outsourcing",
+      "admissao": "06/11/2024",
+      "email": "uian.gorgonio@deal.com.br",
+      "color": "#ec4899",
+      "comentarios": [],
+      "engagements": [],
+      "clientScores": [],
+      "area": "ENFORCE Digital",
+      "tenure": "1 ano e 6 mêses",
+      "focus": "Mentoria de juniores, arquitetura de soluções e referência técnica no cliente",
+      "goals": []
+    },
+    {
+      "id": 5,
+      "name": "Eric Araujo Santos Lima",
+      "role": "Analista Desenvolvedor Senior",
+      "contract": "Digital",
+      "admissao": "25/11/2024",
+      "email": "eric.lima@deal.com.br",
+      "color": "#14b8a6",
+      "comentarios": [],
+      "engagements": [],
+      "clientScores": [],
+      "area": "ENFORCE Digital",
+      "tenure": "1 ano e 6 mêses",
+      "focus": "Mentoria de juniores, arquitetura de soluções e referência técnica no cliente",
+      "goals": []
+    },
+    {
+      "id": 6,
+      "name": "Rodrigo Camurca Vera",
+      "role": "Desenvolvedor Senior",
+      "contract": "Outsourcing",
+      "admissao": "25/03/2026",
+      "email": "rodrigo.vera@deal.com.br",
+      "color": "#fbbf24",
+      "comentarios": [],
+      "engagements": [],
+      "clientScores": [],
+      "area": "ENFORCE Digital",
+      "tenure": "2 mêses",
+      "focus": "Mentoria de juniores, arquitetura de soluções e referência técnica no cliente",
+      "goals": []
+    }
+  ]
+}
